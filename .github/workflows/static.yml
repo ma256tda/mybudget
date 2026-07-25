@@ -1,0 +1,62 @@
+<p>&nbsp;</p><h1>Privacy Policy — My Budget</h1>
+<p><strong>Last updated:</strong> June 11, 2026</p>
+<p>This Privacy Policy describes how <strong>My Budget — Personal Home Budget Tracker</strong> ("the App", "we", "our") handles your information. My Budget is designed from the ground up as a fully offline application, and protecting your privacy is a core design principle of the App.</p>
+<hr />
+<h2>1. Summary</h2>
+<p><strong>My Budget does not collect, transmit, share, or sell any personal data — ever.</strong></p>
+<p>The App has no internet access. The <code>INTERNET</code> permission is intentionally absent from the application manifest, and the App contains no networking libraries, analytics SDKs, advertising SDKs, or crash-reporting services. It is technically impossible for the App to send your data anywhere.</p>
+<hr />
+<h2>2. Information the App Stores</h2>
+<p>All data you enter into My Budget is stored <strong>only on your device</strong>, in a local database (SQLite via Android Room). This includes:</p>
+<ul>
+<li><strong>Transactions</strong> — amounts, transaction type (income/expense), category, optional notes, and dates that you enter.</li>
+<li><strong>Budgets</strong> — monthly overall and per-category budget limits you set.</li>
+<li><strong>Categories</strong> — default and custom categories, including their names, icons, colors, and types.</li>
+<li><strong>Settings &amp; preferences</strong> — your selected currency, theme preference, and other app settings, stored locally using Android DataStore.</li>
+</ul>
+<p>None of this information ever leaves your device through the App.</p>
+<h2>3. Information the App Does NOT Collect</h2>
+<p>My Budget does <strong>not</strong> collect, access, or process:</p>
+<ul>
+<li>Personal identifiers (name, email address, phone number)</li>
+<li>Location data</li>
+<li>Contacts, photos, files, or other device content</li>
+<li>Usage analytics or diagnostic data</li>
+<li>Financial account credentials (the App never connects to banks or financial institutions)</li>
+</ul>
+<hr />
+<h2>4. Permissions</h2>
+<p>My Budget requests <strong>no sensitive permissions</strong>:</p>
+<ul>
+<li><strong>No internet permission</strong> — the App cannot communicate over any network.</li>
+<li><strong>No storage permissions</strong> — file export and backup features use the Android Storage Access Framework (SAF), which lets <em>you</em> choose where to save or open files through the system file picker, without granting the App general access to your storage.</li>
+</ul>
+<h2>5. Data Export, Backup, and Restore</h2>
+<p>The App allows you to:</p>
+<ul>
+<li><strong>Export your transactions as a CSV file</strong>, and</li>
+<li><strong>Back up or restore your data as a JSON file.</strong></li>
+</ul>
+<p>These actions happen entirely on your device and only when you explicitly initiate them. You choose where the file is saved using the system file picker. Once exported, the file is under your control — please store backup files securely, as they contain your financial records in readable form.</p>
+<h2>6. Data Retention and Deletion</h2>
+<p>Your data remains on your device until you delete it. You may:</p>
+<ul>
+<li>Delete individual transactions, categories, or budgets within the App;</li>
+<li>Use the <strong>"Clear all data"</strong> option in Settings to erase all App data; or</li>
+<li>Uninstall the App, which removes its local database and preferences from your device.</li>
+</ul>
+<p>We have no copy of your data and therefore cannot recover it for you after deletion. Use the backup feature if you wish to preserve your data.</p>
+<hr />
+<h2>7. Third-Party Services</h2>
+<p>My Budget integrates <strong>no third-party services</strong> of any kind — no advertising networks, no analytics providers, no cloud services, and no social media SDKs.</p>
+<h2>8. Children's Privacy</h2>
+<p>My Budget does not collect personal information from anyone, including children. Because no data is collected or transmitted, the App does not knowingly process information about children under 13 (or the applicable age in your jurisdiction).</p>
+<h2>9. Security</h2>
+<p>Your data is protected by your device's own security measures (screen lock, device encryption, etc.). Because the App is offline-only, your financial data is not exposed to network-based threats through the App. We recommend keeping your device secured with a lock screen and keeping device encryption enabled.</p>
+<h2>10. Changes to This Privacy Policy</h2>
+<p>If the App's data practices ever change (for example, in a future update), this Privacy Policy will be updated and the "Last updated" date revised. Material changes will be highlighted in the App's update notes.</p>
+<h2>11. Contact</h2>
+<p>If you have any questions about this Privacy Policy, please contact us at:</p>
+<p><strong>Email:</strong>&nbsp;ma256tda1@gmail.com&nbsp;<strong>Developer:</strong>&nbsp;Mubashar Ahmad</p>
+<hr />
+<p><em>By using My Budget, you acknowledge that you have read and understood this Privacy Policy.</em></p>
